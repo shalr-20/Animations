@@ -6,7 +6,7 @@ This app includes animations created using the [Lottie](https://airbnb.io/lottie
 - Easy integration with Android apps
 
 ## How to View the Animations
-Click the image below to watch the demo video:
+Below is the demo video:
 
 <a href="https://github.com/user-attachments/assets/0eee4253-0b2b-4610-bd1b-1fcc00fa3803" 
   alt="Watch the video">
